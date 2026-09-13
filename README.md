@@ -113,9 +113,9 @@ Defined the business objective, explored the dataset structure and attributes, a
 
 Performed exploratory data analysis using Python to investigate data distributions, relationships, user behavior, genre preferences, platform usage, and engagement patterns.
 
-📄 [EDA Python Documentation](2.%20EDA_Python_Documentation.pdf)
+📄 [EDA Python Documentation](2_EDA_Python_Documentation.pdf)
 
-🐍 [Python EDA Jupyter Notebook](2.%20EDA_Python%20_.%20ipynb)
+🐍 [Python EDA Jupyter Notebook](2_EDA_Python.ipynb)
 
 ---
 

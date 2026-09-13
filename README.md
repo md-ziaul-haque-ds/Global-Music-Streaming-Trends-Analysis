@@ -222,7 +222,6 @@ global-music-streaming-analysis/
 ├── 4. Business Insights and recommendations.pdf
 │
 ├── 05_Dashboard_Screenshots/
-│   ├── .gitkeep
 │   ├── 1. Dashboard Overview.png
 │   ├── 2. User Demographics.png
 │   ├── 3. Listening Behaviour.png
@@ -230,7 +229,6 @@ global-music-streaming-analysis/
 │   └── 5. Interactive Data Explore.png
 │
 └── 06_Raw_Dataset/
-    ├── .gitkeep
     └── Global_Music_Streaming_Listener_Preferences.csv
 ```
 

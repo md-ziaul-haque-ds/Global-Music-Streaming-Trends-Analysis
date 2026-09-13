@@ -246,6 +246,6 @@ The analysis highlights opportunities around personalization, premium conversion
 
 **Md Ziaul Haque**
 
-**Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel | Machine Learning**
+**Data Analyst | Python | SQL | Power BI | Tableau | Excel | AI | Machine Learning**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mdziaulhaque-datascience)

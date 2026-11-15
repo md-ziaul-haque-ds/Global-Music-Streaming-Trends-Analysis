@@ -59,7 +59,7 @@ The analysis focuses on six key business questions:
 
 ## 🗂️ Dataset
 
-The dataset contains **5,000 records and 12 attributes**, covering listener demographics, streaming behavior, subscription type, music preferences, and engagement.
+The dataset contains **5,000 records and 12 attributes**, covering listener demographics, streaming behavior, subscription type, music preferences, and engagement. Ages range from 13 to 60, and the data covers 10 countries and 6 streaming platforms.
 
 ### Key Attributes
 
@@ -76,7 +76,7 @@ The dataset contains **5,000 records and 12 attributes**, covering listener demo
 * **Discover Weekly Engagement (%)** — Engagement with recommended playlists
 * **Repeat Song Rate (%)** — Song replay behavior
 
-**Dataset Source:** Open-source Kaggle dataset — *Global Music Streaming Trends and Listener Insights*
+**Dataset Source:** Open-source Kaggle dataset — [*Global Music Streaming Trends & Listener Insights*](https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights)
 
 📁 [View Raw Dataset](06_Raw_Dataset/Global_Music_Streaming_Listener_Preferences.csv)
 
@@ -141,15 +141,17 @@ Translated the analytical findings into actionable recommendations for streaming
 
 ### 🎧 Competitive Streaming Platforms
 
-Amazon Music, Spotify, YouTube, Apple Music, Deezer, and Tidal have relatively competitive user distributions, with **Amazon Music showing slightly higher representation**.
+Amazon Music, Spotify, YouTube, Apple Music, Deezer, and Tidal have relatively competitive user distributions, with **Amazon Music showing slightly higher representation** (861 users, about 17%).
 
 ### 👥 Dominant User Segments
 
-The **31–45 and 46–60 age groups** represent the largest user segments, making users aged 31–60 an important target audience for personalized marketing and platform strategies.
+The **31–45 and 46–60 age groups** represent the largest user segments (1,598 and 1,567 users), making users aged 31–60 an important target audience for personalized marketing and platform strategies.
+
+Age groups used in the dashboard: 18 and under, 19–30, 31–45, and 46–60.
 
 ### 🎸 Genre Engagement
 
-**Rock, R&B, and Classical** show the highest average listening time, followed by Hip-Hop, EDM, and Jazz.
+**Rock, R&B, and Classical** show the highest average listening time (about 324, 315, and 314 minutes per day), followed by Hip-Hop, EDM, and Jazz.
 
 ### 💎 Free vs. Premium
 
@@ -162,7 +164,7 @@ This indicates a significant opportunity to convert highly engaged free users in
 
 ### 🌙 Listening Time
 
-**Night** is the dominant listening period, followed by Afternoon and Morning.
+**Night** is the dominant listening period (1,745 users), followed by Afternoon (1,634) and Morning (1,621).
 
 Listening preferences also vary by genre and region, creating opportunities for time-based personalization.
 
@@ -205,15 +207,15 @@ The dashboard contains five analytical views:
 ## 📁 Project Structure
 
 ```text
-global-music-streaming-analysis/
+Global-Music-Streaming-Trends-Analysis/
 │
 ├── README.md
 │
 ├── 1. Business Objective, Data Exploration, Business Questions.pdf
 │
-├── 2. EDA_Python_Documentation.pdf
+├── 2_EDA_Python_Documentation.pdf
 │
-├── 2. EDA_Python _. ipynb
+├── 2_EDA_Python.ipynb
 │
 ├── 3. Global Music Streaming Trends Analysis.pbix
 │

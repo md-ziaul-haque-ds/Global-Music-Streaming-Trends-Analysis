@@ -213,9 +213,9 @@ Global-Music-Streaming-Trends-Analysis/
 │
 ├── 1. Business Objective, Data Exploration, Business Questions.pdf
 │
-├── 2_EDA_Python_Documentation.pdf
+├── 2. EDA_Python_Documentation.pdf
 │
-├── 2_EDA_Python.ipynb
+├── 2. EDA_Python.ipynb
 │
 ├── 3. Global Music Streaming Trends Analysis.pbix
 │
